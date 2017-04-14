@@ -1,0 +1,5 @@
+This is a Ball Tracking with OpenCV, with OpenCV 2.4 and Python 2.7
+
+With a green Ball, you can prove it, Using opencv and Computer Vision the script will track the ball by color.
+
+Thanks to the Computer Vision Ph.D Adrian Rosebrock.
